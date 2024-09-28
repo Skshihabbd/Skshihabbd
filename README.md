@@ -53,3 +53,12 @@
 </div>
 
 ###
+## 🔥 Github stats :
+ [![Sk Shihab's current streak](https://streak-stats.demolab.com/?user=Skshihabbd&count_private=true&theme=blue-white&title_color=00b3ff)](#)
+ 
+ [![Shihab's github stats](https://bad-apple-github-readme.vercel.app/api?username=Skshihabbd&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-white&title_color=00b3ff)](#)
+ 
+ [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=Skshihabbd&layout=compact&count_private=true&theme=blue-black&title_color=00b3ff)](#)
+
+
+
